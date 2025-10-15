@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ORI2207
+- 👋 Hi, I’m @chatjo
 - 🌱 I’m currently learning how to set up a chat bot for my website 
 - 📫 How to reach me on Jochen@jochenkootz.de 
 - 😄 Pronouns: Create visibilty and job change coaching digital
